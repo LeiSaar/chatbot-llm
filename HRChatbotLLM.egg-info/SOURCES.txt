@@ -1,0 +1,8 @@
+setup.py
+HRChatbotLLM.egg-info/PKG-INFO
+HRChatbotLLM.egg-info/SOURCES.txt
+HRChatbotLLM.egg-info/dependency_links.txt
+HRChatbotLLM.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
